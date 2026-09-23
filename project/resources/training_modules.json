@@ -1,0 +1,74 @@
+[
+  {
+    "id": "vid-seatbelt-101",
+    "title": "Seatbelt & Cab Safety Basics",
+    "type": "Video",
+    "meta": "9 min",
+    "description": "Why the seatbelt interlock exists, how it ties into rollover protection, and the compliance rate operators are held to.",
+    "progressPercent": 100
+  },
+  {
+    "id": "vid-proximity-201",
+    "title": "Proximity Awareness on Active Sites",
+    "type": "Video",
+    "meta": "14 min",
+    "description": "Reading the proximity alert zones, blind-spot habits, and ground-crew hand signals for tight sites.",
+    "progressPercent": 60
+  },
+  {
+    "id": "vid-idling-fuel",
+    "title": "Idling, Fuel Burn & Duty Cycles",
+    "type": "Video",
+    "meta": "11 min",
+    "description": "How excessive idling shows up in the fleet data, and simple habits that cut fuel burn per shift.",
+    "progressPercent": 0
+  },
+  {
+    "id": "vid-weather-ops",
+    "title": "Operating in Rain, Fog & High Wind",
+    "type": "Video",
+    "meta": "16 min",
+    "description": "Adjusted safe distances and load limits for reduced-visibility and high-wind conditions.",
+    "progressPercent": 0
+  },
+  {
+    "id": "inst-tue-0900",
+    "title": "1:1 Excavator Refresher",
+    "type": "Instructor",
+    "meta": "Tue 09:00 - 10:00, Yard B",
+    "description": "Hands-on session with a certified instructor covering trenching technique and load-cycle efficiency.",
+    "progressPercent": 0
+  },
+  {
+    "id": "inst-wed-1400",
+    "title": "Night-Shift Safety Walkthrough",
+    "type": "Instructor",
+    "meta": "Wed 14:00 - 15:00, Site Office",
+    "description": "Group session on the extra hazard checks required for night operation.",
+    "progressPercent": 0
+  },
+  {
+    "id": "inst-fri-1100",
+    "title": "New Operator Onboarding",
+    "type": "Instructor",
+    "meta": "Fri 11:00 - 12:30, Yard A",
+    "description": "Required session for operators below 3 years of experience before solo demolition tasks.",
+    "progressPercent": 0
+  },
+  {
+    "id": "sim-grading-basic",
+    "title": "Grading Simulation - Flat Site",
+    "type": "Simulation",
+    "meta": "Interactive, ~20 min",
+    "description": "Practice blade control and pass planning on a flat reference site with instant accuracy feedback.",
+    "progressPercent": 40
+  },
+  {
+    "id": "sim-demolition-adv",
+    "title": "Demolition Simulation - Confined Space",
+    "type": "Simulation",
+    "meta": "Interactive, ~30 min",
+    "description": "Advanced scenario for controlled demolition in a tight, obstructed site layout.",
+    "progressPercent": 0
+  }
+]

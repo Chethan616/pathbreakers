@@ -1,0 +1,16 @@
+MachineID,MachineType,AgeYears,EngineHoursStart
+EXC001,Excavator,7,1757.87
+LDR001,Loader,1,3053.93
+BLD001,Bulldozer,2,2373.78
+GRD001,Grader,6,2776.63
+DMP001,DumpTruck,6,1434.67
+CRN001,Crane,3,3156.12
+EXC002,Excavator,2,3962.18
+LDR002,Loader,4,1347.38
+BLD002,Bulldozer,5,757.61
+GRD002,Grader,6,1232.89
+DMP002,DumpTruck,5,1380.12
+CRN002,Crane,6,2623.69
+EXC003,Excavator,5,3390.17
+LDR003,Loader,8,924.84
+BLD003,Bulldozer,5,504.31

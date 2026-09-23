@@ -1,0 +1,10 @@
+ScheduleID,ScheduledTime,TaskType,MachineID,OperatorID,Priority,Status,EstimatedTimeMin
+SCH001,06:00,Earth Excavation,LDR001,OP008,Normal,Completed,60.00
+SCH002,07:00,Trenching,EXC003,OP011,Normal,Completed,45.00
+SCH003,09:00,Earth Excavation,CRN002,OP014,Normal,Completed,60.00
+SCH004,11:00,Lifting,EXC002,OP019,Normal,InProgress,40.00
+SCH005,12:00,Compacting,LDR002,OP015,Normal,InProgress,55.00
+SCH006,14:00,Demolition,BLD001,OP007,Normal,Scheduled,90.00
+SCH007,16:00,Demolition,LDR001,OP020,Normal,Scheduled,90.00
+SCH008,18:00,Digging,EXC001,OP005,High,Scheduled,50.00
+SCH009,20:00,Compacting,DMP002,OP004,Normal,Scheduled,55.00
